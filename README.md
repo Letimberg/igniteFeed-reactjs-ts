@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Ignite Feed é um feed de redes sociais que se assemelha aos feeds de notícias presentes em plataformas como Facebook, Twitter, Instagram e LinkedIn. Nestes feeds, os usuários podem visualizar as atualizações de seus amigos, as quais podem abranger postagens de texto e links compartilhados.
+O Ignite Feed é um feed de redes sociais similar aos feeds de notícias encontrados em plataformas como Facebook, Twitter, Instagram e LinkedIn. Nele, os usuários podem visualizar atualizações de seus amigos, incluindo postagens de texto e links compartilhados.
 
 -   [Acesse o projeto finalizado, online - Em construção]()
 
